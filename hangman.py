@@ -1,12 +1,4 @@
-"""
-1. target_word. randomly picked from dictionary
-2. user input a letter
-3. if that letter is in the target_word, 
-    then, print where the letter located in the word.
-    including the letters that are already found.
-   if not, take away a life. (draw one body part of the hangman)
-4. check the word has been completed. if so, win the game. Otherwise, go to #2.
-"""
+
 
 HANGMAN_PICS = [
     '''
